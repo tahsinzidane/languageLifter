@@ -51,7 +51,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 ## Author
 
-**[Tahsinzidane]** (https://tahsinportfo.netlify.app/)
+**[Tahsinzidane](https://tahsinportfo.netlify.app/)**
 
 ## License
 
