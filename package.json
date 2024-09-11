@@ -1,0 +1,19 @@
+{
+  "name": "lang-translator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.20.0",
+    "nodemon": "^3.1.4",
+    "translate": "^3.0.0"
+  }
+}
